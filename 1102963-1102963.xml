@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+<properties>
+<entry key="eventID">1102963</entry>
+<entry key="eventType">0</entry>
+<entry key="nodeID">100870</entry>
+<entry key="nodeType">product</entry>
+<entry key="eventCreationTime">2024-02-07 14:56:26.0</entry>
+<entry key="eventRevision">0.2</entry>
+<entry key="messageCreationTime">2024-02-07 14:56:48.356</entry>
+</properties>
+-->
+<!-- Configuration:
+<?xml version='1.0'?>
+<STEP-ProductInformation ResolveInlineRefs="true">
+<Products />
+</STEP-ProductInformation>
+Export from TEST_001
+Effective date: 2024-02-07 14:56:48
+Classifications All
+Products "100870"
+Assets All
+
+Exported by domain exporter.
+-->
+<STEP-ProductInformation ExportTime="2024-02-07 14:56:48" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+
+  <Products>
+    <Product ID="100870" UserTypeID="draj_sku" ParentID="100867" Changed="true">
+      <Name Changed="true">TEST_001</Name>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
